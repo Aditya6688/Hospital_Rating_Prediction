@@ -180,20 +180,6 @@ plt.style.use('seaborn-v0_8')
 sns.set_palette("husl")
 ```
 
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-### Guidelines
-- Follow PEP 8 style guidelines
-- Add comments to explain complex logic
-- Include docstrings for functions
-- Test your changes before submitting
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 👨‍💻 Author
 
 **BTP Hospital Rating Project**
@@ -206,13 +192,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Scikit-learn community for machine learning tools
 - Python data science ecosystem contributors
 
-## 📞 Support
-
-For questions or support, please:
-1. Check the notebook documentation
-2. Review the code comments
-3. Open an issue in the repository
-
 ---
 
 **Note**: This project is for educational and research purposes. Always verify results and consult healthcare professionals for medical decisions.
@@ -220,3 +199,4 @@ For questions or support, please:
 <div align="center">
   <p>Made with ❤️ for healthcare analytics</p>
 </div>
+
